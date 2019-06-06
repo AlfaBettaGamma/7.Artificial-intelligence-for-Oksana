@@ -1,0 +1,1 @@
+def SumOfThe( N,  data):
